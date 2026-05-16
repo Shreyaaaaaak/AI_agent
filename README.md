@@ -78,4 +78,4 @@ The agent will search the web and Wikipedia, then return a structured response l
   "tools_used": ["search_tool", "wiki_tool"]
 }
 ```
-
+------------------------------------------------------------------
